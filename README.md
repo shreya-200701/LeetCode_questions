@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shreya-200701/LeetCode_questions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/shreya-200701/LeetCode_questions/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shreya-200701/LeetCode_questions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/shreya-200701/LeetCode_questions/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shreya-200701/LeetCode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/shreya-200701/LeetCode_questions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/shreya-200701/LeetCode_questions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

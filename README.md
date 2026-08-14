@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shreya-200701/LeetCode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shreya-200701/LeetCode_questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shreya-200701/LeetCode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shreya-200701/LeetCode_questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/shreya-200701/LeetCode_questions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shreya-200701/LeetCode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shreya-200701/LeetCode_questions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shreya-200701/LeetCode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -81,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shreya-200701/LeetCode_questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->

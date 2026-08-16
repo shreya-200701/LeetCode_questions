@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreya-200701/LeetCode_questions/tree/master/0014-longest-common-prefix) |
+| [2833-furthest-point-from-origin](https://github.com/shreya-200701/LeetCode_questions/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/shreya-200701/LeetCode_questions/tree/master/1192-critical-connections-in-a-network) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/shreya-200701/LeetCode_questions/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->

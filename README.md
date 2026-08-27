@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shreya-200701/LeetCode_questions/tree/master/0994-rotting-oranges) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/shreya-200701/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shreya-200701/LeetCode_questions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

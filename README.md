@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shreya-200701/LeetCode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shreya-200701/LeetCode_questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/shreya-200701/LeetCode_questions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/shreya-200701/LeetCode_questions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/shreya-200701/LeetCode_questions/tree/master/0994-rotting-oranges) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/shreya-200701/LeetCode_questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/shreya-200701/LeetCode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shreya-200701/LeetCode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shreya-200701/LeetCode_questions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

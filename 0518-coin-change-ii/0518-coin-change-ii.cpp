@@ -1,30 +1,29 @@
 class Solution {
 public:
-    int count(vector<int>&nums,int amount,vector<vector<int>>&dp,int index){
-        if(index<0){
-            return 0;
+    int change(int amount, vector<int>& coins) {
+        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,0));
+
+        for(int i=0;i<coins.size();i++){
+            dp[i][0] = 1;
         }
-        if(amount<0){
-            return -1;
+        for(int j = coins[0]; j <= amount; j++) {
+            dp[0][j] = dp[0][j - coins[0]];
         }
-        if(amount==0){
-            return 1;
-        }
-        if(dp[index][amount]!=-1){
-            return dp[index][amount];
-        }
-        int notpick = count(nums,amount,dp,index-1);
-        int pick = 0;
-        if(amount>=nums[index]){
-            int temp = count(nums,amount-nums[index],dp,index);
-            if(temp!=-1 && temp!=0){
-                pick = temp;
+        for(int i=1;i<coins.size();i++){
+            for(int j=1;j<amount+1;j++){
+
+                long long notpick = dp[i-1][j];
+                long long  pick = 0;
+                if(j>=coins[i]){
+                    pick = dp[i][j-coins[i]];
+                }
+
+                dp[i][j] = pick+notpick;
             }
         }
-        return dp[index][amount] = pick + notpick;
-    }
-    int change(int amount, vector<int>& coins) {
-        vector<vector<int>>dp(coins.size(),vector<int>(amount+1,-1));
-        return count(coins,amount,dp,coins.size()-1);
+        if(dp[coins.size()-1][amount]==-1){
+            return 0;
+        }
+        return dp[coins.size()-1][amount];
     }
 };

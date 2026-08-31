@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreya-200701/LeetCode_questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya-200701/LeetCode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
 | [2833-furthest-point-from-origin](https://github.com/shreya-200701/LeetCode_questions/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0322-coin-change](https://github.com/shreya-200701/LeetCode_questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

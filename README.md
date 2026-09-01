@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya-200701/LeetCode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreya-200701/LeetCode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/shreya-200701/LeetCode_questions/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreya-200701/LeetCode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)

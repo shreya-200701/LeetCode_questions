@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int longest(vector<int>&nums,vector<vector<int>>&dp,int idx,int prev){
-        if(idx>=nums.size()){
-            return 0;
-        }
-        if(dp[idx][prev+1]!=-1){
-            return dp[idx][prev+1];
-        }
-        int take = 0;
-        if( prev==-1 || nums[idx]>nums[prev]){
-            
-            take = 1+longest(nums,dp,idx+1,idx);
-        }
-        int nottake = longest(nums,dp,idx+1,prev);
-        return dp[idx][prev+1] = max(take,nottake);
-    }
+    
     int lengthOfLIS(vector<int>& nums) {
-        int prev = -1;
-        vector<vector<int>>dp(nums.size(),vector<int>(nums.size()+1,-1));
-        return longest(nums,dp,0,-1);
+        int n = nums.size();
+        vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,0));
+        
+        for(int i=nums.size()-1;i>=0;i--){
+            for(int j=-1;j<i;j++){
+                int take = 0;
+                if(j==-1 || nums[i]>nums[j]){
+                    take = 1+dp[i+1][i+1];
+                }
+                int nottake = dp[i+1][j+1];
+                dp[i][j+1] = max(take,nottake);
+                }
+            }
+        return dp[0][0];
     }
 };

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shreya-200701/LeetCode_questions/tree/master/0994-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/1463-cherry-pickup-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shreya-200701/LeetCode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/shreya-200701/LeetCode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shreya-200701/LeetCode_questions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0516-longest-palindromic-subsequence) |
+| [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreya-200701/LeetCode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya-200701/LeetCode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya-200701/LeetCode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Minimum Spanning Tree
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreya-200701/LeetCode_questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreya-200701/LeetCode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -263,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->

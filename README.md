@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/shreya-200701/LeetCode_questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya-200701/LeetCode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/shreya-200701/LeetCode_questions/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/shreya-200701/LeetCode_questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/shreya-200701/LeetCode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shreya-200701/LeetCode_questions/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0516-longest-palindromic-subsequence) |

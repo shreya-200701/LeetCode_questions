@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/shreya-200701/LeetCode_questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/shreya-200701/LeetCode_questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/shreya-200701/LeetCode_questions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1092-shortest-common-supersequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shreya-200701/LeetCode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0300-longest-increasing-subsequence) |

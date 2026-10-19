@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/shreya-200701/LeetCode_questions/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shreya-200701/LeetCode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shreya-200701/LeetCode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/shreya-200701/LeetCode_questions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/0931-minimum-falling-path-sum) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shreya-200701/LeetCode_questions/tree/master/0073-set-matrix-zeroes) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |

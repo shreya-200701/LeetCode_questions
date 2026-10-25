@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shreya-200701/LeetCode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shreya-200701/LeetCode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shreya-200701/LeetCode_questions/tree/master/0312-burst-balloons) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/shreya-200701/LeetCode_questions/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shreya-200701/LeetCode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/shreya-200701/LeetCode_questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/shreya-200701/LeetCode_questions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/shreya-200701/LeetCode_questions/tree/master/1148-article-views-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

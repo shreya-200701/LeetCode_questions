@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreya-200701/LeetCode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1668-maximum-repeating-substring](https://github.com/shreya-200701/LeetCode_questions/tree/master/1668-maximum-repeating-substring) |
 | [2833-furthest-point-from-origin](https://github.com/shreya-200701/LeetCode_questions/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shreya-200701/LeetCode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shreya-200701/LeetCode_questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/1463-cherry-pickup-ii) |
+| [1668-maximum-repeating-substring](https://github.com/shreya-200701/LeetCode_questions/tree/master/1668-maximum-repeating-substring) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya-200701/LeetCode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/shreya-200701/LeetCode_questions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |

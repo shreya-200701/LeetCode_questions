@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shreya-200701/LeetCode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shreya-200701/LeetCode_questions/tree/master/0312-burst-balloons) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shreya-200701/LeetCode_questions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/shreya-200701/LeetCode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shreya-200701/LeetCode_questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shreya-200701/LeetCode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |

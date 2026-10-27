@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/shreya-200701/LeetCode_questions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/shreya-200701/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shreya-200701/LeetCode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/shreya-200701/LeetCode_questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/shreya-200701/LeetCode_questions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shreya-200701/LeetCode_questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shreya-200701/LeetCode_questions/tree/master/0300-longest-increasing-subsequence) |

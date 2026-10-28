@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1043-partition-array-for-maximum-sum](https://github.com/shreya-200701/LeetCode_questions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/shreya-200701/LeetCode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1463-cherry-pickup-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/1463-cherry-pickup-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shreya-200701/LeetCode_questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shreya-200701/LeetCode_questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/0268-missing-number) |
 | [1048-longest-string-chain](https://github.com/shreya-200701/LeetCode_questions/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shreya-200701/LeetCode_questions/tree/master/0229-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya-200701/LeetCode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
